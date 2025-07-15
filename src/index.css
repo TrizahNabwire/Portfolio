@@ -6,6 +6,9 @@ body {
   height: 100vh;
   background: #e4e2dd;
   color: #1150ab;
-  /* font-family: 'Poppins', sans-serif; */
-  font-family:"Waterlily", Consolas, "Courier New", monospace;
+  font-family: 'Waterlily', cursive;
+}
+@font-face {
+  font-family: 'Waterlily';
+  src: url('../src/fonts/Waterlily\ Script.ttf') format('truetype');
 }
