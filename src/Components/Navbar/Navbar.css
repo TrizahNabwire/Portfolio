@@ -3,7 +3,7 @@
     align-items: center;
     justify-content: space-between;
     padding: 10px 20px;
-    margin: 20px 80px;
+    margin: 8px 80px;
 }
 .navbar-logo {
     width: 100px;
@@ -28,4 +28,5 @@
 
 .nav-connect:hover {
     transform: scale(1.05);
+    box-shadow: 0 0 10px rgba(17, 80, 171, 0.5);
 }
