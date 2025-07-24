@@ -5,8 +5,7 @@ import arrow_icon from '../../assets/arrow_icon.svg'
 
 const MyWork = () => {
   return (
-    <div>
-        <div className="mywork">
+        <div id='work' className="mywork">
             <div className="mywork-title">
                 <h1>My Latest Work</h1>
             </div>
@@ -21,8 +20,6 @@ const MyWork = () => {
 
             </div>
         </div>
-
-    </div>
   )
 }
 

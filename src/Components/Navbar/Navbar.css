@@ -43,3 +43,11 @@
   margin-top: 1px;
   border-radius: 4px;
 }
+.anchor-link{
+    text-decoration: none;
+    color: #1150ab;
+}
+.anchor-link1{
+    text-decoration: none;
+    color: #e4e4e4;
+}
